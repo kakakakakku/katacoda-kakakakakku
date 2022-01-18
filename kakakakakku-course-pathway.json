@@ -1,0 +1,16 @@
+{
+  "title": "kakakakakku-course",
+  "description": "kakakakakku-course",
+  "courses": [
+    {
+      "course_id": "kakakakakku-scenario-1",
+      "title": "kakakakakku-scenario-1",
+      "description": "kakakakakku-scenario-1"
+    },
+    {
+      "course_id": "kakakakakku-scenario-2",
+      "title": "kakakakakku-scenario-2",
+      "description": "kakakakakku-scenario-2"
+    }
+  ]
+}
